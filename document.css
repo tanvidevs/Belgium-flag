@@ -1,0 +1,26 @@
+*{
+    background-color: aliceblue;
+    float: left;
+    transform: translate(130px,80px);
+}
+.mainbox{
+    height: 300px;
+    width: 100px;
+    background-color: black;
+    
+    
+}
+.main{
+    height: 300px;
+    width: 100px;
+    background-color:yellow;
+  
+}
+.container{
+    height: 300px;
+    width: 100px;
+    background-color: red;
+}
+.h3{
+    
+}
